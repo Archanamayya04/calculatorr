@@ -106,7 +106,7 @@ function calculate() {
     document.getElementById("result").value = q;
 }
   </script>
- <center><h1>For Scientific Calcuator <a href=scal.html>Click Here</a></h1></center>
+ <center><h1>For Scientific Calcuator <a href=scal.jsp>Click Here</a></h1></center>
 </body>
  
 </html>
